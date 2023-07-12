@@ -1,0 +1,42 @@
+footer{
+    display: flex;
+    flex-direction: column;
+}
+.foot-panel{
+    font-size: 1rem;
+    display: relative;
+    margin-top:54%;
+    width: 100%;
+    height: 40px;
+    background-color:#0f1111;
+    color: aliceblue;
+    text-align: center;
+    padding-top:13px;
+}
+.foot-panel-2{
+    height: 80vh;
+    display: flex;
+    color:white;
+    justify-content: space-evenly;
+
+    background-color:#242828 ;
+}
+.text1{
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+.text1 ul{
+
+    margin-top: 1rem;
+    list-style: none;
+    padding: 0;
+}
+.text1 ul li{
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    list-style: none;
+    padding: 0;
+}
